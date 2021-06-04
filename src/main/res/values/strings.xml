@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitVolleyAppImpl</string>
+    <string name="id_label">Ingrese ID de la revista a consultar:</string>
+</resources>
